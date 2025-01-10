@@ -1,6 +1,6 @@
 Volkswagen Car Listings Analysis:
 
-This Python project analyses a CSV file containing car listings for Volkswagen vehicles in the UK. Using Python's csv module, as well as pandas and matplotlib for data visualization, this script provides insights into the data.
+This Python project (week_4_task_vw.py) analyses a CSV file (vw.csv) containing car listings for Volkswagen vehicles in the UK. Using Python's csv module, as well as pandas and matplotlib for data visualization, this script provides insights into the data.
 
 
 
