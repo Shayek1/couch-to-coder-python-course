@@ -10,6 +10,7 @@ user's account
 4. Prompt the user to enter their pin !
 5. If the pin values match, display their balance.
 6. If they don't match, print out a message notifying the user.
+
 Extensions:
 1. If the pin matches, give the prompt to the user if they'd like to withdraw or deposit
 some money.
