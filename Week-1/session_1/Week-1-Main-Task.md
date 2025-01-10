@@ -1,3 +1,8 @@
+ATM Control Flow Program
+The task was to creat a Python that simulates a simple ATM system, focusing on control flow and user input. The program allows users to check their account balance, deposit money, or withdraw money, with secure PIN authentication.
+
+Below are the tasks that the Bright Network Academy provided:
+
 1. Create a file called control_flow_atm.py
 2. Create a variable called balance with an int value representing the money in the
 user's account
