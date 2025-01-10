@@ -16,5 +16,5 @@ Answer the following questions:
 Extension: Using pandas and matplotlib , create the following:
 1. A pie chart showing the distribution between fuel types. (You can use the model column
 to count occurances!)
-2. A bar chart showing the average mileage for each model. (You need to research hpow
+2. A bar chart showing the average mileage for each model. (You need to research how
 can you calculate average using pandas!)
