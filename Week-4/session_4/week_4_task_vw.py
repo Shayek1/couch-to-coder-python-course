@@ -50,14 +50,3 @@ for car in cars:
 #print(polo_mileage)
 polo_mileage_avg = polo_mileage/polo_count
 print("The average mileage for VW Polo models registered in 2020 is "+ str(polo_mileage_avg) + ".")
-
-# Extension: Using pandas and matplotlib , create the following:
-# 1. A pie chart showing the distribution between fuel types. (You can use the model column
-# to count occurances!)
-
-# import pandas as pd
-
-# distribution = pd.read_csv("vw.csv")
-# print(distribution)
-# # 2. A bar chart showing the average mileage for each model. (You need to research hpow
-# # can you calculate average using pandas!)
